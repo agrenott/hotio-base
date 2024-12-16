@@ -22,5 +22,17 @@
       "jammyvpn-3.2.0.2",
       "jammyvpn-4b31fb6"
     ]
+  },
+  "mine": {
+    "description": "Alpine 3.19",
+    "hide": false,
+    "last_updated": "2024-12-16T22:50:39.000Z",
+    "last_updated_url": "https://github.com/agrenott/hotio-base/actions/runs/12362629473",
+    "latest": false,
+    "tags": [
+      "mine",
+      "mine-3.2.0.2",
+      "mine-a6b5647"
+    ]
   }
 }
